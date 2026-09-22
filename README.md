@@ -1,8 +1,8 @@
 # 現代の海の生き物診断 🌊
 
-<p align="center">
+<div align="center">
   <img src="./docs/Web_Portfolio_SeaCreatureQuiz.png" alt="現代の海の生き物診断 制作実績" width="720">
-</p>
+</div>
 
 12の質問から性格傾向を分析し、15種類の海の生き物にたとえて結果を表示するWeb診断です。
 「笑えて、ちょっと当たる」をテーマに、診断結果を読むだけでも少し前向きになれる体験を目指しました。
@@ -94,3 +94,4 @@ public/
 © 2026 [tonsan88](https://github.com/tonsan88). All rights reserved.
 
 ソースコードと画像の無断転載・再配布・商用利用はご遠慮ください。
+
